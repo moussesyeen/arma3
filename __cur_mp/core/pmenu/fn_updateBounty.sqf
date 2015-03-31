@@ -1,0 +1,8 @@
+/*
+        File: fn_bountyfixing.sqf
+
+*/
+private["_val","_total"];
+_val = [_this,0,0,[0]] call BIS_fnc_param;
+
+gsn_wanted_status = _val;

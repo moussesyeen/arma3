@@ -1,0 +1,1 @@
+#include "Awww, did your client crash? Maybe it's a bug, or maybe you shouldn't try to hack money on a GSN server. Have a nice day!"
